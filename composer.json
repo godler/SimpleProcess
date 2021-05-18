@@ -1,0 +1,17 @@
+{
+    "name": "klik/simpleprocess",
+    "description": "Kolejne podejście do modułu procesoweg",
+    "authors": [
+        {
+            "name": " Mateusz Godlewski",
+            "email": "mateusz.godlewski@orange.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": 
+        {
+            "Klik\\SimpleProcess\\": ""
+        }
+    }
+}
